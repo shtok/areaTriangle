@@ -1,0 +1,5 @@
+C:\Users\Александр\Desktop\Задачи\Triangle\AreaTringle\areaLib\bin\Debug\areaLib.dll
+C:\Users\Александр\Desktop\Задачи\Triangle\AreaTringle\areaLib\bin\Debug\areaLib.pdb
+C:\Users\Александр\Desktop\Задачи\Triangle\AreaTringle\areaLib\obj\Debug\areaLib.dll
+C:\Users\Александр\Desktop\Задачи\Triangle\AreaTringle\areaLib\obj\Debug\areaLib.pdb
+C:\Users\Александр\Desktop\Задачи\Triangle\AreaTringle\areaLib\obj\Debug\areaLib.csprojResolveAssemblyReference.cache

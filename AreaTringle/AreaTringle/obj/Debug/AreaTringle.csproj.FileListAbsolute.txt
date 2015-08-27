@@ -1,0 +1,16 @@
+C:\Users\Александр\Desktop\Задачи\AreaTringle\AreaTringle\bin\Debug\AreaTringle.exe.config
+C:\Users\Александр\Desktop\Задачи\AreaTringle\AreaTringle\obj\Debug\AreaTringle.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Задачи\AreaTringle\AreaTringle\bin\Debug\AreaTringle.exe
+C:\Users\Александр\Desktop\Задачи\AreaTringle\AreaTringle\bin\Debug\AreaTringle.pdb
+C:\Users\Александр\Desktop\Задачи\AreaTringle\AreaTringle\bin\Debug\ClassLibrary1.dll
+C:\Users\Александр\Desktop\Задачи\AreaTringle\AreaTringle\bin\Debug\ClassLibrary1.pdb
+C:\Users\Александр\Desktop\Задачи\AreaTringle\AreaTringle\obj\Debug\AreaTringle.exe
+C:\Users\Александр\Desktop\Задачи\AreaTringle\AreaTringle\obj\Debug\AreaTringle.pdb
+C:\Users\Александр\Desktop\Задачи\Triangle\AreaTringle\AreaTringle\bin\Debug\AreaTringle.exe.config
+C:\Users\Александр\Desktop\Задачи\Triangle\AreaTringle\AreaTringle\bin\Debug\AreaTringle.exe
+C:\Users\Александр\Desktop\Задачи\Triangle\AreaTringle\AreaTringle\bin\Debug\AreaTringle.pdb
+C:\Users\Александр\Desktop\Задачи\Triangle\AreaTringle\AreaTringle\obj\Debug\AreaTringle.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Задачи\Triangle\AreaTringle\AreaTringle\obj\Debug\AreaTringle.exe
+C:\Users\Александр\Desktop\Задачи\Triangle\AreaTringle\AreaTringle\obj\Debug\AreaTringle.pdb
+C:\Users\Александр\Desktop\Задачи\Triangle\AreaTringle\AreaTringle\bin\Debug\areaLib.dll
+C:\Users\Александр\Desktop\Задачи\Triangle\AreaTringle\AreaTringle\bin\Debug\areaLib.pdb
